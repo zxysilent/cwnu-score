@@ -17,9 +17,9 @@ import (
 )
 
 const (
-	HomeUrl  = "http://218.6.128.130/web/web/mis/"
-	LoginUrl = "http://218.6.128.130/jiaoshi/bangong/main/check.asp"
-	ScoreUrl = "http://218.6.128.130/jiaoshi/xslm/cj/note"
+	HomeUrl  = "http://210.41.193.28/web/web/mis/"
+	LoginUrl = "http://210.41.193.28/jiaoshi/bangong/main/check.asp"
+	ScoreUrl = "http://210.41.193.28/jiaoshi/xslm/cj/note"
 )
 
 func main() {
